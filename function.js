@@ -1,5 +1,4 @@
 window.function = function (input, key) {
-  const CryptoJS = require('crypto-js');
   const message = input.value;
   const secretKey = key.value;
   try {

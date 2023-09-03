@@ -2,7 +2,7 @@
     "kind": "column",
     "name": "HMAC-SHA1 result",
     "description": "Return the HMAC-SHA1 version.",
-    "author": "Dilon Perera <pereradilon24@gmail.com>",
+    "author": "Darren Murphy <darren@victoriajd.com>",
     "params": [
       {
         "name": "input",

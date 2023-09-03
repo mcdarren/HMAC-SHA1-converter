@@ -1,0 +1,21 @@
+{
+    "kind": "column",
+    "name": "HMAC-SHA1 result",
+    "description": "Return the HMAC-SHA1 version.",
+    "author": "Dilon Perera <pereradilon24@gmail.com>",
+    "params": [
+      {
+        "name": "input",
+        "displayName": "Message",
+        "type": "string"
+      },
+      {
+        "name": "key",
+        "displayName": "Secret Key",
+        "type": "string"
+      }
+    ],
+    "result": {
+      "type": "string"
+    }
+  }
